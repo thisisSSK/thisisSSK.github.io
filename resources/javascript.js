@@ -1,1 +1,5 @@
-// Your Javascript will go here!
+
+$(document).ready(function() {
+	$("copyricht").click(function() {
+		@(this).css('color','purple');
+});
